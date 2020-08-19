@@ -1,5 +1,5 @@
 {
-  "name": "alexdemers/stripe-php",
+  "name": "stripe/stripe-php",
   "description": "Stripe PHP Library",
   "keywords": [
     "stripe",
